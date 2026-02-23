@@ -1,0 +1,3 @@
+[LOG]: Starting Test Suite 3 - University Form Handling Tests
+[LOG]: Please enter your work email address
+[LOG]: Completed Test Suite 3 - University Form Handling Tests

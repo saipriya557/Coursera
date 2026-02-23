@@ -1,0 +1,5 @@
+[LOG]: Starting Test Suite 4 - Coursera Plus Pricing Validation Tests
+[LOG]: ₹1,699
+[LOG]: ₹2,099
+[LOG]: ₹13,999
+[LOG]: Completed Test Suite 4 - Coursera Plus Pricing Validation Tests
