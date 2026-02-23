@@ -1,0 +1,2 @@
+[LOG]: Starting Test Suite 4 - Coursera Plus Pricing Validation Tests
+[LOG]: Completed Test Suite 4 - Coursera Plus Pricing Validation Tests
