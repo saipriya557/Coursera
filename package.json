@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-
-    "scripts": {
-      "sanity:test":"npx playwright test -g sanity",
-      "smoke:test":"npx playwright test -g smoke",
-      "regression:test":"npx playwright test"
+  "scripts": {
+    "sanity:test": "npx playwright test -g sanity",
+    "smoke:test": "npx playwright test -g smoke",
+    "regression:test": "npx playwright test"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +14,8 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
-    "@types/node": "^25.2.3"
+    "@types/node": "^25.2.3",
+    "allure-commandline": "^2.36.0",
+    "allure-playwright": "^3.4.5"
   }
 }

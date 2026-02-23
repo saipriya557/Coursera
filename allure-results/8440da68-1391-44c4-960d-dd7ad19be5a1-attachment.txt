@@ -1,0 +1,3 @@
+[LOG]: Starting Test Suite 2 - Language Filter Tests
+[LOG]: Available language filters: 58
+[LOG]: Completed Test Suite 2 - Language Filter Tests

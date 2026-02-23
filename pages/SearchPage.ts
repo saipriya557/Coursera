@@ -4,12 +4,15 @@ export class SearchPage {
     constructor(private page: Page) { }
 
     async openLanguageFilter() {
+
         const language = this.page.getByTestId('filter-dropdown-language');
         await language.click();
+         
     }
 
     async openLevelFilter() {
-        await this.page.getByRole('button', { name: "Level" }).click();
+        await this.page.locator("[data-testid='filter-dropdown-productDifficultyLevel']").click();
+       // await this.page.getByRole('button', { name: "Level" }).click();
     }
 
     async getLanguageOptions() {
@@ -25,17 +28,19 @@ export class SearchPage {
     }
 
     async clearFilters() {
-        await this.page.getByRole('button', { name: "Clear All" }).click();
+        await this.page.getByRole('button', { name: "clear all" }).click();
     }
 
     async filterByLanguage(language: string) { 
-        await this.page.getByRole('button', { name: "Language" }).click(); 
+        //await this.page.getByRole('button', { name: "Language" }).click(); 
+        const lang = this.page.getByTestId('filter-dropdown-language');
+        await lang.click();
         await this.page.getByRole('checkbox', { name: language }).click(); 
         await this.page.getByRole('button', { name: "View" }).click(); 
     } 
     
     async filterByLevel(level: string) { 
-        // await this.page.getByRole('button', { name: "Level" }).click(); 
+       // await this.page.getByRole('button', { name: "Level" }).click(); 
         await this.page.locator("[data-testid='filter-dropdown-productDifficultyLevel']").click();
         await this.page.getByRole('checkbox', { name: level }).click(); 
         await this.page.getByRole('button', { name: "View" }).click(); 

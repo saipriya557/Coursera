@@ -1,0 +1,877 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: "#main"
+        - generic [ref=e8]: Skip to main content
+      - navigation [ref=e9]:
+        - navigation [ref=e15]:
+          - list [ref=e16]:
+            - listitem [ref=e17]:
+              - link [ref=e18] [cursor=pointer]:
+                - /url: https://www.coursera.org/
+                - generic [ref=e19]: For Individuals
+            - listitem [ref=e20]:
+              - link [ref=e21] [cursor=pointer]:
+                - /url: https://www.coursera.org/business?utm_content=corp-to-home-for-enterprise&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out
+                - generic [ref=e22]: For Businesses
+            - listitem [ref=e23]:
+              - link [ref=e24] [cursor=pointer]:
+                - /url: https://www.coursera.org/campus?utm_content=corp-to-landing-for-campus&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out
+                - generic [ref=e25]: For Universities
+            - listitem [ref=e26]:
+              - link [ref=e27] [cursor=pointer]:
+                - /url: https://www.coursera.org/government?utm_content=corp-to-landing-for-government&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out
+                - generic [ref=e28]: For Governments
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - link [ref=e35] [cursor=pointer]:
+              - /url: /
+              - img [ref=e38]
+            - button [ref=e43] [cursor=pointer]:
+              - generic [ref=e44]:
+                - text: Explore
+                - img [ref=e46]
+            - button [ref=e49] [cursor=pointer]:
+              - generic [ref=e50]: Degrees
+          - search [ref=e54]:
+            - generic [ref=e58]:
+              - combobox [ref=e59]: Language Learning
+              - button [ref=e62] [cursor=pointer]:
+                - img [ref=e63]
+              - group
+          - generic [ref=e65]:
+            - button [ref=e67] [cursor=pointer]:
+              - generic [ref=e68]: Log In
+            - button [ref=e70] [cursor=pointer]:
+              - generic [ref=e71]: Join for Free
+    - main [ref=e72]:
+      - region [ref=e79]:
+        - generic [ref=e82]:
+          - generic [ref=e85]:
+            - generic [ref=e86]: "More to explore:"
+            - generic [ref=e89]:
+              - button [ref=e91] [cursor=pointer]:
+                - generic [ref=e92]: learn english
+              - button [ref=e94] [cursor=pointer]:
+                - generic [ref=e95]: yonsei university in language learning
+              - button [ref=e97] [cursor=pointer]:
+                - generic [ref=e98]: french language learning beginner level
+              - button [ref=e100] [cursor=pointer]:
+                - generic [ref=e101]: italian in language learning
+              - button [ref=e103] [cursor=pointer]:
+                - generic [ref=e104]: japanese in language learning
+              - button [ref=e106] [cursor=pointer]:
+                - generic [ref=e107]: hsk in language learning
+              - button [ref=e109] [cursor=pointer]:
+                - generic [ref=e110]: idiomas in language learning
+              - button [ref=e112] [cursor=pointer]:
+                - generic [ref=e113]: spanish language in language learning
+              - button [ref=e115] [cursor=pointer]:
+                - generic [ref=e116]: tesol in language learning
+              - button [ref=e118] [cursor=pointer]:
+                - generic [ref=e119]: korean language in language learning
+          - separator [ref=e121]
+          - generic [ref=e124]:
+            - heading [level=2] [ref=e129]:
+              - generic [ref=e130]: Results for "Language Learning"
+            - generic [ref=e135]:
+              - button [ref=e136] [cursor=pointer]:
+                - img [ref=e138]
+                - generic [ref=e140]: Filter & Sort
+                - generic [ref=e141]: (1)
+              - separator [ref=e142]
+              - generic [ref=e143]:
+                - button [ref=e145] [cursor=pointer]:
+                  - generic [ref=e146]: Topic
+                  - img [ref=e148]
+                - button [ref=e151] [cursor=pointer]:
+                  - generic [ref=e152]: Duration
+                  - img [ref=e154]
+                - button [ref=e157] [cursor=pointer]:
+                  - generic [ref=e158]: Learning Product
+                  - img [ref=e160]
+                - button [ref=e163] [cursor=pointer]:
+                  - generic [ref=e164]: Spanish
+                  - img [ref=e166]
+                - button [ref=e169] [cursor=pointer]:
+                  - generic [ref=e170]: Level
+                  - img [ref=e172]
+                - generic [ref=e174]:
+                  - button [ref=e175] [cursor=pointer]:
+                    - img [ref=e178]
+                    - generic [ref=e181]: Language Learning Skills
+                    - img [ref=e183]
+                  - button [ref=e185] [cursor=pointer]:
+                    - img [ref=e188]
+                    - generic [ref=e191]: English Language Proficiency
+                    - img [ref=e193]
+              - button [ref=e195] [cursor=pointer]:
+                - generic [ref=e196]: Clear all
+            - region [ref=e197]:
+              - generic [ref=e199]:
+                - list [ref=e200]:
+                  - listitem [ref=e201]:
+                    - generic [ref=e206] [cursor=pointer]:
+                      - generic [ref=e211]:
+                        - generic [ref=e212]:
+                          - img [ref=e213]
+                          - generic [ref=e215]: "Status: Subtitles"
+                          - generic [ref=e216]: Subtitles
+                        - generic [ref=e217]:
+                          - generic [ref=e218]: "Status: Preview"
+                          - generic [ref=e219]: Preview
+                      - generic [ref=e220]:
+                        - generic [ref=e221]:
+                          - paragraph [ref=e227]: Yonsei University
+                          - link [ref=e229]:
+                            - /url: /learn/learn-korean
+                            - heading [level=3] [ref=e230]: First Step Korean
+                        - paragraph [ref=e233]:
+                          - strong [ref=e234]: "Skills you'll gain:"
+                          - text: Language Competency, Grammar, Writing, Vocabulary, Literacy, Culture
+                        - generic [ref=e235]:
+                          - generic [ref=e236]:
+                            - meter [ref=e237]:
+                              - img [ref=e238]
+                              - generic [ref=e240]: "4.9"
+                              - generic [ref=e241]: Rating, 4.9 out of 5 stars
+                            - generic [ref=e242]: ·
+                            - generic [ref=e243]: 53K reviews
+                          - paragraph [ref=e245]: Beginner · Course · 1 - 3 Months
+                  - listitem [ref=e246]:
+                    - generic [ref=e251] [cursor=pointer]:
+                      - generic [ref=e254]:
+                        - generic [ref=e255]:
+                          - img [ref=e256]
+                          - generic [ref=e258]: "Status: Subtitles"
+                          - generic [ref=e259]: Subtitles
+                        - generic [ref=e260]:
+                          - generic [ref=e261]: "Status: Free Trial"
+                          - generic [ref=e262]: Free Trial
+                      - generic [ref=e263]:
+                        - generic [ref=e264]:
+                          - paragraph [ref=e270]: University of California, Irvine
+                          - link [ref=e272]:
+                            - /url: /specializations/learn-english-beginning-grammar
+                            - heading [level=3] [ref=e273]: "Learn English: Beginning Grammar"
+                        - paragraph [ref=e276]:
+                          - strong [ref=e277]: "Skills you'll gain:"
+                          - text: Grammar, Vocabulary, English Language, Language Learning, Language Competency
+                        - generic [ref=e278]:
+                          - generic [ref=e279]:
+                            - meter [ref=e280]:
+                              - img [ref=e281]
+                              - generic [ref=e283]: "4.9"
+                              - generic [ref=e284]: Rating, 4.9 out of 5 stars
+                            - generic [ref=e285]: ·
+                            - generic [ref=e286]: 5.1K reviews
+                          - paragraph [ref=e288]: Beginner · Specialization · 1 - 3 Months
+                  - listitem [ref=e289]:
+                    - generic [ref=e294] [cursor=pointer]:
+                      - generic [ref=e297]:
+                        - generic [ref=e298]:
+                          - img [ref=e299]
+                          - generic [ref=e301]: "Status: Subtitles"
+                          - generic [ref=e302]: Subtitles
+                        - generic [ref=e303]:
+                          - generic [ref=e304]: "Status: Free Trial"
+                          - generic [ref=e305]: Free Trial
+                      - generic [ref=e306]:
+                        - generic [ref=e307]:
+                          - paragraph [ref=e313]: University of California, Davis
+                          - link [ref=e315]:
+                            - /url: /specializations/learn-spanish
+                            - heading [level=3] [ref=e316]: "Learn Spanish: Basic Spanish Vocabulary"
+                        - paragraph [ref=e319]:
+                          - strong [ref=e320]: "Skills you'll gain:"
+                          - text: Peer Review, Language Learning, Spanish Language, Oral Expression, Grammar, Oral Comprehension, Vocabulary, Culture, Writing and Editing, Language Competency, Research, Writing
+                        - generic [ref=e321]:
+                          - generic [ref=e322]:
+                            - meter [ref=e323]:
+                              - img [ref=e324]
+                              - generic [ref=e326]: "4.5"
+                              - generic [ref=e327]: Rating, 4.5 out of 5 stars
+                            - generic [ref=e328]: ·
+                            - generic [ref=e329]: 3.7K reviews
+                          - paragraph [ref=e331]: Beginner · Specialization · 3 - 6 Months
+                  - listitem [ref=e332]:
+                    - generic [ref=e337] [cursor=pointer]:
+                      - generic [ref=e340]:
+                        - generic [ref=e341]:
+                          - img [ref=e342]
+                          - generic [ref=e344]: "Status: Subtitles"
+                          - generic [ref=e345]: Subtitles
+                        - generic [ref=e346]:
+                          - generic [ref=e347]: "Status: Free Trial"
+                          - generic [ref=e348]: Free Trial
+                      - generic [ref=e349]:
+                        - generic [ref=e350]:
+                          - paragraph [ref=e356]: Università di Napoli Federico II
+                          - link [ref=e358]:
+                            - /url: /specializations/english-intermediate-b1
+                            - heading [level=3] [ref=e359]: English Intermediate B1
+                        - paragraph [ref=e362]:
+                          - strong [ref=e363]: "Skills you'll gain:"
+                          - text: Presentations, Oral Expression, Business Communication, Business Correspondence, English Language, Verbal Communication Skills, Negotiation, Business Writing, Interviewing Skills, Data Visualization, Writing, Communication, Vocabulary, Social Skills, Language Learning, Interpersonal Communications, Stress Management, Education and Training, Higher Education, Medical Terminology
+                        - generic [ref=e364]:
+                          - generic [ref=e365]:
+                            - meter [ref=e366]:
+                              - img [ref=e367]
+                              - generic [ref=e369]: "4.6"
+                              - generic [ref=e370]: Rating, 4.6 out of 5 stars
+                            - generic [ref=e371]: ·
+                            - generic [ref=e372]: 463 reviews
+                          - paragraph [ref=e374]: Intermediate · Specialization · 3 - 6 Months
+                  - listitem [ref=e375]:
+                    - generic [ref=e380] [cursor=pointer]:
+                      - generic [ref=e383]:
+                        - generic [ref=e384]:
+                          - img [ref=e385]
+                          - generic [ref=e387]: "Status: Subtitles"
+                          - generic [ref=e388]: Subtitles
+                        - generic [ref=e389]:
+                          - generic [ref=e390]: "Status: Free Trial"
+                          - generic [ref=e391]: Free Trial
+                      - generic [ref=e392]:
+                        - generic [ref=e393]:
+                          - paragraph [ref=e399]: Shanghai Jiao Tong University
+                          - link [ref=e401]:
+                            - /url: /specializations/learn-mandarin
+                            - heading [level=3] [ref=e402]: Learn Mandarin Chinese
+                        - paragraph [ref=e405]:
+                          - strong [ref=e406]: "Skills you'll gain:"
+                          - text: Oral Comprehension, Language Learning, Cultural Sensitivity, Cultural Diversity, Culture, Vocabulary, Language Competency, Grammar
+                        - generic [ref=e407]:
+                          - generic [ref=e408]:
+                            - meter [ref=e409]:
+                              - img [ref=e410]
+                              - generic [ref=e412]: "4.8"
+                              - generic [ref=e413]: Rating, 4.8 out of 5 stars
+                            - generic [ref=e414]: ·
+                            - generic [ref=e415]: 1.7K reviews
+                          - paragraph [ref=e417]: Beginner · Specialization · 3 - 6 Months
+                  - listitem [ref=e418]:
+                    - generic [ref=e423] [cursor=pointer]:
+                      - generic [ref=e426]:
+                        - generic [ref=e427]:
+                          - img [ref=e428]
+                          - generic [ref=e430]: "Status: Subtitles"
+                          - generic [ref=e431]: Subtitles
+                        - generic [ref=e432]:
+                          - generic [ref=e433]: "Status: Free"
+                          - generic [ref=e434]: Free
+                      - generic [ref=e435]:
+                        - generic [ref=e436]:
+                          - paragraph [ref=e442]: Georgia Institute of Technology
+                          - link [ref=e444]:
+                            - /url: /learn/lesson-small-talk-and-conversational-vocabulary
+                            - heading [level=3] [ref=e445]: Lesson | Small Talk & Conversational Vocabulary
+                        - paragraph [ref=e448]:
+                          - strong [ref=e449]: "Skills you'll gain:"
+                          - text: Vocabulary, Verbal Communication Skills, English Language, Professionalism, Interpersonal Communications, Communication
+                        - generic [ref=e450]:
+                          - generic [ref=e451]:
+                            - meter [ref=e452]:
+                              - img [ref=e453]
+                              - generic [ref=e455]: "4.3"
+                              - generic [ref=e456]: Rating, 4.3 out of 5 stars
+                            - generic [ref=e457]: ·
+                            - generic [ref=e458]: 1.3K reviews
+                          - paragraph [ref=e460]: Mixed · Course · 1 - 4 Weeks
+                - generic [ref=e464]:
+                  - heading [level=2] [ref=e465]: What brings you to Coursera today?
+                  - generic [ref=e466]:
+                    - generic [ref=e467]:
+                      - img [ref=e469]
+                      - button [ref=e471] [cursor=pointer]
+                      - paragraph [ref=e473]: Start my career
+                    - generic [ref=e474]:
+                      - img [ref=e476]
+                      - button [ref=e478] [cursor=pointer]
+                      - paragraph [ref=e480]: Change my career
+                    - generic [ref=e481]:
+                      - img [ref=e483]
+                      - button [ref=e485] [cursor=pointer]
+                      - paragraph [ref=e487]: Grow in my current role
+                    - generic [ref=e488]:
+                      - img [ref=e490]
+                      - button [ref=e492] [cursor=pointer]
+                      - paragraph [ref=e494]: Explore topics outside of work
+                - list [ref=e495]:
+                  - listitem [ref=e496]:
+                    - generic [ref=e501] [cursor=pointer]:
+                      - generic [ref=e506]:
+                        - generic [ref=e507]:
+                          - img [ref=e508]
+                          - generic [ref=e510]: "Status: Subtitles"
+                          - generic [ref=e511]: Subtitles
+                        - generic [ref=e512]:
+                          - generic [ref=e513]: "Status: Free Trial"
+                          - generic [ref=e514]: Free Trial
+                      - generic [ref=e515]:
+                        - generic [ref=e516]:
+                          - paragraph [ref=e522]: Arizona State University
+                          - link [ref=e524]:
+                            - /url: /specializations/tesol
+                            - heading [level=3] [ref=e525]: "TESOL Certificate, Part 1: Teach English Now!"
+                        - paragraph [ref=e528]:
+                          - strong [ref=e529]: "Skills you'll gain:"
+                          - text: Digital pedagogy, Oral Expression, Train The Trainer, Vocabulary, Design Elements And Principles, Design Strategies, English Language, Language Learning, Verbal Communication Skills, Public Speaking, Grammar
+                        - generic [ref=e530]:
+                          - generic [ref=e531]:
+                            - meter [ref=e532]:
+                              - img [ref=e533]
+                              - generic [ref=e535]: "4.9"
+                              - generic [ref=e536]: Rating, 4.9 out of 5 stars
+                            - generic [ref=e537]: ·
+                            - generic [ref=e538]: 20K reviews
+                          - paragraph [ref=e540]: Beginner · Specialization · 3 - 6 Months
+                  - listitem [ref=e541]:
+                    - link [ref=e543] [cursor=pointer]:
+                      - /url: /professional-certificates/google-ai
+                      - generic [ref=e544]:
+                        - heading [level=2] [ref=e546]: The Google AI Certificate that powers your career
+                        - link [ref=e548]:
+                          - /url: /professional-certificates/google-ai
+                          - generic [ref=e549]: Enroll now
+                  - listitem [ref=e551]:
+                    - generic [ref=e556] [cursor=pointer]:
+                      - generic [ref=e561]:
+                        - generic [ref=e562]:
+                          - img [ref=e563]
+                          - generic [ref=e565]: "Status: Subtitles"
+                          - generic [ref=e566]: Subtitles
+                        - generic [ref=e567]:
+                          - generic [ref=e568]: "Status: Free Trial"
+                          - generic [ref=e569]: Free Trial
+                      - generic [ref=e570]:
+                        - generic [ref=e571]:
+                          - paragraph [ref=e577]: Arizona State University
+                          - link [ref=e579]:
+                            - /url: /professional-certificates/arizona-state-university-tesol
+                            - heading [level=3] [ref=e580]: Arizona State University TESOL
+                        - paragraph [ref=e583]:
+                          - strong [ref=e584]: "Skills you'll gain:"
+                          - text: Oral Comprehension, Learning Management Systems, Education Software and Technology, Digital pedagogy, Oral Expression, Teaching, Literacy, Train The Trainer, Technology Strategies, Grammar, English Language, Language Competency, Vocabulary, Design Elements And Principles, Design Strategies, Language Learning, digital literacy, Verbal Communication Skills, Public Speaking, Innovation
+                        - generic [ref=e585]:
+                          - generic [ref=e586]:
+                            - meter [ref=e587]:
+                              - img [ref=e588]
+                              - generic [ref=e590]: "4.9"
+                              - generic [ref=e591]: Rating, 4.9 out of 5 stars
+                            - generic [ref=e592]: ·
+                            - generic [ref=e593]: 22K reviews
+                          - paragraph [ref=e595]: Beginner · Professional Certificate · 3 - 6 Months
+                  - listitem [ref=e596]:
+                    - generic [ref=e601] [cursor=pointer]:
+                      - generic [ref=e606]:
+                        - generic [ref=e607]:
+                          - img [ref=e608]
+                          - generic [ref=e610]: "Status: Subtitles"
+                          - generic [ref=e611]: Subtitles
+                        - generic [ref=e612]:
+                          - generic [ref=e613]: "Status: Free Trial"
+                          - generic [ref=e614]: Free Trial
+                      - generic [ref=e615]:
+                        - generic [ref=e616]:
+                          - paragraph [ref=e622]: Tsinghua University
+                          - link [ref=e624]:
+                            - /url: /specializations/learn-english
+                            - heading [level=3] [ref=e625]: Learn English
+                        - paragraph [ref=e628]:
+                          - strong [ref=e629]: "Skills you'll gain:"
+                          - text: Intercultural Competence, Cultural Diversity, Mental Health, Learning Strategies, Culture, Emotional Intelligence, Liberal Arts, English Language, Social Sciences, Literacy, Language Learning, Economics, Interpersonal Communications, Empathy, Psychology, Writing, Research, Business Management, Communication Strategies, Oral Comprehension
+                        - generic [ref=e630]:
+                          - generic [ref=e631]:
+                            - meter [ref=e632]:
+                              - img [ref=e633]
+                              - generic [ref=e635]: "4.3"
+                              - generic [ref=e636]: Rating, 4.3 out of 5 stars
+                            - generic [ref=e637]: ·
+                            - generic [ref=e638]: 992 reviews
+                          - paragraph [ref=e640]: Beginner · Specialization · 3 - 6 Months
+                  - listitem [ref=e641]:
+                    - generic [ref=e646] [cursor=pointer]:
+                      - generic [ref=e651]:
+                        - generic [ref=e652]:
+                          - img [ref=e653]
+                          - generic [ref=e655]: "Status: Subtitles"
+                          - generic [ref=e656]: Subtitles
+                        - generic [ref=e657]:
+                          - generic [ref=e658]: "Status: Free Trial"
+                          - generic [ref=e659]: Free Trial
+                      - generic [ref=e660]:
+                        - generic [ref=e661]:
+                          - paragraph [ref=e667]: University of California, Irvine
+                          - link [ref=e669]:
+                            - /url: /specializations/speaklistenenglish
+                            - heading [level=3] [ref=e670]: "Learn English: Advanced Academic Speaking and Listening"
+                        - paragraph [ref=e673]:
+                          - strong [ref=e674]: "Skills you'll gain:"
+                          - text: Verbal Communication Skills, Presentations, Public Speaking, Discussion Facilitation, Non-Verbal Communication, Oral Comprehension, English Language, Peer Review, Active Listening, Communication, Social Skills, Constructive Feedback, Interpersonal Communications, Persuasive Communication, Driving engagement, Student Engagement, Collaboration, Planning, Critical Thinking, Vocabulary
+                        - generic [ref=e675]:
+                          - generic [ref=e676]:
+                            - meter [ref=e677]:
+                              - img [ref=e678]
+                              - generic [ref=e680]: "4.5"
+                              - generic [ref=e681]: Rating, 4.5 out of 5 stars
+                            - generic [ref=e682]: ·
+                            - generic [ref=e683]: 1.4K reviews
+                          - paragraph [ref=e685]: Intermediate · Specialization · 3 - 6 Months
+                  - listitem [ref=e686]:
+                    - generic [ref=e691] [cursor=pointer]:
+                      - generic [ref=e696]:
+                        - generic [ref=e697]:
+                          - img [ref=e698]
+                          - generic [ref=e700]: "Status: Subtitles"
+                          - generic [ref=e701]: Subtitles
+                        - generic [ref=e702]:
+                          - generic [ref=e703]: "Status: Preview"
+                          - generic [ref=e704]: Preview
+                      - generic [ref=e705]:
+                        - generic [ref=e706]:
+                          - paragraph [ref=e712]: University of Michigan
+                          - link [ref=e714]:
+                            - /url: /learn/learning-languages-with-ai
+                            - heading [level=3] [ref=e715]: Learning Languages with AI
+                        - paragraph [ref=e718]:
+                          - strong [ref=e719]: "Skills you'll gain:"
+                          - text: Prompt Engineering, Generative AI, AI Personalization, Responsible AI, LLM Application, Language Competency, Language Learning, Communication, Writing, Cultural Diversity
+                        - generic [ref=e720]:
+                          - generic [ref=e721]:
+                            - meter [ref=e722]:
+                              - img [ref=e723]
+                              - generic [ref=e725]: "4"
+                              - generic [ref=e726]: Rating, 4 out of 5 stars
+                            - generic [ref=e727]: ·
+                            - generic [ref=e728]: 9 reviews
+                          - paragraph [ref=e730]: Beginner · Course · 1 - 3 Months
+              - list [ref=e733]:
+                - listitem [ref=e734]:
+                  - generic [ref=e739] [cursor=pointer]:
+                    - generic [ref=e744]:
+                      - generic [ref=e745]:
+                        - img [ref=e746]
+                        - generic [ref=e748]: "Status: Subtitles"
+                        - generic [ref=e749]: Subtitles
+                      - generic [ref=e750]:
+                        - generic [ref=e751]: "Status: Preview"
+                        - generic [ref=e752]: Preview
+                    - generic [ref=e753]:
+                      - generic [ref=e754]:
+                        - paragraph [ref=e760]: Yonsei University
+                        - link [ref=e762]:
+                          - /url: /learn/learn-speak-korean1
+                          - heading [level=3] [ref=e763]: Learn to Speak Korean 1
+                      - paragraph [ref=e766]:
+                        - strong [ref=e767]: "Skills you'll gain:"
+                        - text: Language Competency, Language Learning, Vocabulary, Oral Comprehension, Grammar
+                      - generic [ref=e768]:
+                        - generic [ref=e769]:
+                          - meter [ref=e770]:
+                            - img [ref=e771]
+                            - generic [ref=e773]: "4.9"
+                            - generic [ref=e774]: Rating, 4.9 out of 5 stars
+                          - generic [ref=e775]: ·
+                          - generic [ref=e776]: 12K reviews
+                        - paragraph [ref=e778]: Beginner · Course · 1 - 3 Months
+    - contentinfo [ref=e779]:
+      - contentinfo [ref=e780]:
+        - paragraph [ref=e782]: Coursera Footer
+        - generic [ref=e785]:
+          - generic [ref=e786]:
+            - heading [level=2] [ref=e787]: Skills
+            - list [ref=e788]:
+              - listitem [ref=e789]:
+                - link [ref=e790] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=artificial%20intelligence
+                  - text: Artificial Intelligence (AI)
+              - listitem [ref=e791]:
+                - link [ref=e792] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=cybersecurity
+                  - text: Cybersecurity
+              - listitem [ref=e793]:
+                - link [ref=e794] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=data%20analytics
+                  - text: Data Analytics
+              - listitem [ref=e795]:
+                - link [ref=e796] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=digital%20marketing
+                  - text: Digital Marketing
+              - listitem [ref=e797]:
+                - link [ref=e798] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=english%20speaking
+                  - text: English Speaking
+              - listitem [ref=e799]:
+                - link [ref=e800] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=generative%20ai
+                  - text: Generative AI (GenAI)
+              - listitem [ref=e801]:
+                - link [ref=e802] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=microsoft%20excel
+                  - text: Microsoft Excel
+              - listitem [ref=e803]:
+                - link [ref=e804] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=microsoft%20power%20bi
+                  - text: Microsoft Power BI
+              - listitem [ref=e805]:
+                - link [ref=e806] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=project%20management
+                  - text: Project Management
+              - listitem [ref=e807]:
+                - link [ref=e808] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=python
+                  - text: Python
+          - generic [ref=e809]:
+            - heading [level=2] [ref=e810]: Certificates & Programs
+            - list [ref=e811]:
+              - listitem [ref=e812]:
+                - link [ref=e813] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/google-cybersecurity
+                  - text: Google Cybersecurity Certificate
+              - listitem [ref=e814]:
+                - link [ref=e815] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/google-data-analytics
+                  - text: Google Data Analytics Certificate
+              - listitem [ref=e816]:
+                - link [ref=e817] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/google-it-support
+                  - text: Google IT Support Certificate
+              - listitem [ref=e818]:
+                - link [ref=e819] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/google-project-management
+                  - text: Google Project Management Certificate
+              - listitem [ref=e820]:
+                - link [ref=e821] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/google-ux-design
+                  - text: Google UX Design Certificate
+              - listitem [ref=e822]:
+                - link [ref=e823] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/ibm-data-analyst
+                  - text: IBM Data Analyst Certificate
+              - listitem [ref=e824]:
+                - link [ref=e825] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/ibm-data-science
+                  - text: IBM Data Science Certificate
+              - listitem [ref=e826]:
+                - link [ref=e827] [cursor=pointer]:
+                  - /url: https://www.coursera.org/specializations/machine-learning-introduction
+                  - text: Machine Learning Certificate
+              - listitem [ref=e828]:
+                - link [ref=e829] [cursor=pointer]:
+                  - /url: https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst
+                  - text: Microsoft Power BI Data Analyst Certificate
+              - listitem [ref=e830]:
+                - link [ref=e831] [cursor=pointer]:
+                  - /url: https://www.coursera.org/specializations/ui-ux-design
+                  - text: UI / UX Design Certificate
+          - generic [ref=e832]:
+            - heading [level=2] [ref=e833]: Industries & Careers
+            - list [ref=e834]:
+              - listitem [ref=e835]:
+                - link [ref=e836] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=business&topic=Business
+                  - text: Business
+              - listitem [ref=e837]:
+                - link [ref=e838] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=computer%20science&topic=Computer%20Science
+                  - text: Computer Science
+              - listitem [ref=e839]:
+                - link [ref=e840] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=data%20science&topic=Data%20Science
+                  - text: Data Science
+              - listitem [ref=e841]:
+                - link [ref=e842] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=education&topic=Social%20Sciences
+                  - text: Education & Teaching
+              - listitem [ref=e843]:
+                - link [ref=e844] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=engineering
+                  - text: Engineering
+              - listitem [ref=e845]:
+                - link [ref=e846] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=finance&skills=Finance
+                  - text: Finance
+              - listitem [ref=e847]:
+                - link [ref=e848] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=healthcare
+                  - text: Healthcare
+              - listitem [ref=e849]:
+                - link [ref=e850] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=hr
+                  - text: Human Resources (HR)
+              - listitem [ref=e851]:
+                - link [ref=e852] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=it
+                  - text: Information Technology (IT)
+              - listitem [ref=e853]:
+                - link [ref=e854] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=marketing&skills=Marketing
+                  - text: Marketing
+          - generic [ref=e855]:
+            - heading [level=2] [ref=e856]: Career Resources
+            - list [ref=e857]:
+              - listitem [ref=e858]:
+                - link [ref=e859] [cursor=pointer]:
+                  - /url: https://www.coursera.org/resources/career-quiz
+                  - text: Career Aptitude Test
+              - listitem [ref=e860]:
+                - link [ref=e861] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/strengths-and-weaknesses-interview
+                  - text: Examples of Strengths and Weaknesses for Job Interviews
+              - listitem [ref=e862]:
+                - link [ref=e863] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/high-income-skills
+                  - text: High-Income Skills to Learn
+              - listitem [ref=e864]:
+                - link [ref=e865] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/how-does-cryptocurrency-work
+                  - text: How Does Cryptocurrency Work?
+              - listitem [ref=e866]:
+                - link [ref=e867] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/tutorial-highlight-duplicates-google-sheets
+                  - text: How to Highlight Duplicates in Google Sheets
+              - listitem [ref=e868]:
+                - link [ref=e869] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/how-to-learn-artificial-intelligence
+                  - text: How to Learn Artificial Intelligence
+              - listitem [ref=e870]:
+                - link [ref=e871] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/popular-cybersecurity-certifications
+                  - text: Popular Cybersecurity Certifications
+              - listitem [ref=e872]:
+                - link [ref=e873] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/the-pmp-certification-a-guide-to-getting-started
+                  - text: Preparing for the PMP Certification
+              - listitem [ref=e874]:
+                - link [ref=e875] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/signs-you-will-get-the-job-after-interview
+                  - text: Signs You Will Get the Job After an Interview
+              - listitem [ref=e876]:
+                - link [ref=e877] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles/what-is-artificial-intelligence
+                  - text: What Is Artificial Intelligence?
+          - generic [ref=e878]:
+            - heading [level=2] [ref=e879]: Coursera
+            - list [ref=e880]:
+              - listitem [ref=e881]:
+                - link [ref=e882] [cursor=pointer]:
+                  - /url: /about
+                  - text: About
+              - listitem [ref=e883]:
+                - link [ref=e884] [cursor=pointer]:
+                  - /url: /about/how-coursera-works/
+                  - text: What We Offer
+              - listitem [ref=e885]:
+                - link [ref=e886] [cursor=pointer]:
+                  - /url: /about/leadership
+                  - text: Leadership
+              - listitem [ref=e887]:
+                - link [ref=e888] [cursor=pointer]:
+                  - /url: https://careers.coursera.com/
+                  - text: Careers
+              - listitem [ref=e889]:
+                - link [ref=e890] [cursor=pointer]:
+                  - /url: /browse
+                  - text: Catalog
+              - listitem [ref=e891]:
+                - link [ref=e892] [cursor=pointer]:
+                  - /url: /courseraplus
+                  - text: Coursera Plus
+              - listitem [ref=e893]:
+                - link [ref=e894] [cursor=pointer]:
+                  - /url: /professional-certificate
+                  - text: Professional Certificates
+              - listitem [ref=e895]:
+                - link [ref=e896] [cursor=pointer]:
+                  - /url: /mastertrack
+                  - text: MasterTrack® Certificates
+              - listitem [ref=e897]:
+                - link [ref=e898] [cursor=pointer]:
+                  - /url: /degrees
+                  - text: Degrees
+              - listitem [ref=e899]:
+                - link [ref=e900] [cursor=pointer]:
+                  - /url: /business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise
+                  - text: For Enterprise
+              - listitem [ref=e901]:
+                - link [ref=e902] [cursor=pointer]:
+                  - /url: /government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise
+                  - text: For Government
+              - listitem [ref=e903]:
+                - link [ref=e904] [cursor=pointer]:
+                  - /url: /campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise
+                  - text: For Campus
+              - listitem [ref=e905]:
+                - link [ref=e906] [cursor=pointer]:
+                  - /url: https://partnerships.coursera.org/?utm_medium=coursera&utm_source=partnerships&utm_campaign=website&utm_content=corp-to-home-footer-become-a-partner
+                  - text: Become a Partner
+              - listitem [ref=e907]:
+                - link [ref=e908] [cursor=pointer]:
+                  - /url: /social-impact
+                  - text: Social Impact
+              - listitem [ref=e909]:
+                - link [ref=e910] [cursor=pointer]:
+                  - /url: https://www.coursera.org/courses?query=free
+                  - text: Free Courses
+              - listitem [ref=e911]:
+                - link [ref=e912] [cursor=pointer]:
+                  - /url: https://airtable.com/appxSsG2Dz9CjSpF8/pagCDDP2Uinw59CNP/form?prefill_utm_source=product&prefill_utm_campaign=seo_footer&prefill_utm_medium=written
+                  - text: Share your Coursera learning story
+          - generic [ref=e913]:
+            - heading [level=2] [ref=e914]: Community
+            - list [ref=e915]:
+              - listitem [ref=e916]:
+                - link [ref=e917] [cursor=pointer]:
+                  - /url: https://www.coursera.community
+                  - text: Learners
+              - listitem [ref=e918]:
+                - link [ref=e919] [cursor=pointer]:
+                  - /url: https://www.coursera.org/partners
+                  - text: Partners
+              - listitem [ref=e920]:
+                - link [ref=e921] [cursor=pointer]:
+                  - /url: https://www.coursera.support/s/article/360000152926-Become-a-Coursera-beta-tester
+                  - text: Beta Testers
+              - listitem [ref=e922]:
+                - link [ref=e923] [cursor=pointer]:
+                  - /url: https://blog.coursera.org
+                  - text: Blog
+              - listitem [ref=e924]:
+                - link [ref=e925] [cursor=pointer]:
+                  - /url: https://open.spotify.com/show/58M36bneU7REOofdPZxe6A
+                  - text: The Coursera Podcast
+              - listitem [ref=e926]:
+                - link [ref=e927] [cursor=pointer]:
+                  - /url: https://medium.com/coursera-engineering
+                  - text: Tech Blog
+          - generic [ref=e928]:
+            - heading [level=2] [ref=e929]: More
+            - list [ref=e930]:
+              - listitem [ref=e931]:
+                - link [ref=e932] [cursor=pointer]:
+                  - /url: /about/press
+                  - text: Press
+              - listitem [ref=e933]:
+                - link [ref=e934] [cursor=pointer]:
+                  - /url: https://investor.coursera.com
+                  - text: Investors
+              - listitem [ref=e935]:
+                - link [ref=e936] [cursor=pointer]:
+                  - /url: /about/terms
+                  - text: Terms
+              - listitem [ref=e937]:
+                - link [ref=e938] [cursor=pointer]:
+                  - /url: /about/privacy
+                  - text: Privacy
+              - listitem [ref=e939]:
+                - link [ref=e940] [cursor=pointer]:
+                  - /url: https://learner.coursera.help/hc
+                  - text: Help
+              - listitem [ref=e941]:
+                - link [ref=e942] [cursor=pointer]:
+                  - /url: https://learner.coursera.help/hc/articles/360050668591-Accessibility-Statement
+                  - text: Accessibility
+              - listitem [ref=e943]:
+                - link [ref=e944] [cursor=pointer]:
+                  - /url: /about/contact
+                  - text: Contact
+              - listitem [ref=e945]:
+                - link [ref=e946] [cursor=pointer]:
+                  - /url: https://www.coursera.org/articles
+                  - text: Articles
+              - listitem [ref=e947]:
+                - link [ref=e948] [cursor=pointer]:
+                  - /url: /directory
+                  - text: Directory
+              - listitem [ref=e949]:
+                - link [ref=e950] [cursor=pointer]:
+                  - /url: /about/affiliates
+                  - text: Affiliates
+              - listitem [ref=e951]:
+                - link [ref=e952] [cursor=pointer]:
+                  - /url: https://coursera_assets.s3.amazonaws.com/footer/Modern+Slavery+Statement+(approved+March+26%2C+2025).pdf
+                  - text: Modern Slavery Statement
+              - listitem [ref=e953]:
+                - link [ref=e954] [cursor=pointer]:
+                  - /url: /about/cookies-manage
+                  - text: Cookies Preference Center
+          - generic [ref=e955]:
+            - generic [ref=e956]:
+              - link [ref=e957] [cursor=pointer]:
+                - /url: https://itunes.apple.com/app/apple-store/id736535961?pt=2334150&ct=Coursera%20Web%20Promo%20Banner&mt=8
+                - img [ref=e960]
+              - link [ref=e961] [cursor=pointer]:
+                - /url: http://play.google.com/store/apps/details?id=org.coursera.android
+                - img [ref=e964]
+            - img [ref=e968]
+          - generic [ref=e970]:
+            - generic [ref=e972]: © 2026 Coursera Inc. All rights reserved.
+            - list [ref=e974]:
+              - listitem [ref=e975]:
+                - link [ref=e976] [cursor=pointer]:
+                  - /url: https://www.facebook.com/Coursera
+                  - img [ref=e979]
+              - listitem [ref=e980]:
+                - link [ref=e981] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/coursera
+                  - img [ref=e984]
+              - listitem [ref=e985]:
+                - link [ref=e986] [cursor=pointer]:
+                  - /url: https://twitter.com/coursera
+                  - img [ref=e989]
+              - listitem [ref=e990]:
+                - link [ref=e991] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/coursera
+                  - img [ref=e994]
+              - listitem [ref=e995]:
+                - link [ref=e996] [cursor=pointer]:
+                  - /url: https://www.instagram.com/coursera/
+                  - img [ref=e999]
+              - listitem [ref=e1000]:
+                - link [ref=e1001] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@coursera
+                  - img [ref=e1004]
+  - generic [ref=e1008]:
+    - heading "Level" [level=3] [ref=e1010]
+    - group "Filter by Level, Required" [ref=e1014]:
+      - generic [ref=e1015]:
+        - generic [ref=e1017] [cursor=pointer]:
+          - generic [ref=e1019]:
+            - checkbox "Beginner (2,074)" [ref=e1020]
+            - img [ref=e1021]
+          - generic [ref=e1025]:
+            - text: Beginner
+            - generic [ref=e1026]: (2,074)
+        - generic [ref=e1028] [cursor=pointer]:
+          - generic [ref=e1030]:
+            - checkbox "Intermediate (1,627)" [ref=e1031]
+            - img [ref=e1032]
+          - generic [ref=e1036]:
+            - text: Intermediate
+            - generic [ref=e1037]: (1,627)
+        - generic [ref=e1039] [cursor=pointer]:
+          - generic [ref=e1041]:
+            - checkbox "Advanced (162)" [ref=e1042]
+            - img [ref=e1043]
+          - generic [ref=e1047]:
+            - text: Advanced
+            - generic [ref=e1048]: (162)
+        - generic [ref=e1050] [cursor=pointer]:
+          - generic [ref=e1052]:
+            - checkbox "Mixed (429)" [ref=e1053]
+            - img [ref=e1054]
+          - generic [ref=e1058]:
+            - text: Mixed
+            - generic [ref=e1059]: (429)
+    - generic [ref=e1062]:
+      - button "View" [ref=e1064] [cursor=pointer]:
+        - generic [ref=e1065]: View
+      - generic [ref=e1066]:
+        - button "Clear All" [disabled]:
+          - generic: Clear All
+```

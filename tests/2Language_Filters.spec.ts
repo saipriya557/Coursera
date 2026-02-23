@@ -11,7 +11,7 @@ test.beforeAll(async () => {
 test.afterAll(async () => {
   Logger.log('Completed Test Suite 2 - Language Filter Tests');
 });
-
+test.setTimeout(90_000);
 test('@sanity Test 2.1 - Open Language Filter and Count Available Options', async ({ homePage, searchPage }) => {
   await homePage.goto();
   await homePage.searchCourse('Language Learning');

@@ -1,0 +1,11 @@
+[LOG]: Starting Test Suite 2 - Language Filter Tests
+[LOG]: Total available language filters found: 58
+[LOG]: Selecting Language Filter 1: English
+(8,576)
+[LOG]: Beginner(3,863)
+[LOG]: Intermediate(3,522)
+[LOG]: Advanced(378)
+[LOG]: Mixed(813)
+[LOG]: Selecting Language Filter 2: Spanish
+(4,292)
+[LOG]: Completed Test Suite 2 - Language Filter Tests
